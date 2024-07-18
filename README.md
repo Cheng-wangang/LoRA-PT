@@ -68,4 +68,13 @@ cd evaluation
 python dice.py
 python hd95.py
 ```
-Acknowledgement
+# Acknowledgement
+If you find 3D-TransUNet useful for your research and applications, please cite using this BibTeX:
+```bibtex
+@article{chen2023transunet3d,
+  title={3D TransUNet: Advancing Medical Image Segmentation through Vision Transformers},
+  author={Chen, Jieneng and Mei, Jieru and Li, Xianhang and Lu, Yongyi and Yu, Qihang and Wei, Qingyue},
+  journal={arXiv preprint arXiv:2310.07781},
+  year={2023}
+}
+```
